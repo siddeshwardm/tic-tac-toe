@@ -1,6 +1,8 @@
-# Tic-Tac-Toe (React + Vite)
+# Tic-Tac-Toe Game 
 
 A clean, interactive Tic-Tac-Toe game built with React. It supports win detection, draw detection, move blocking after game end, and a visual winning strike-through line.
+
+live here : 
 
 ## Overview
 
