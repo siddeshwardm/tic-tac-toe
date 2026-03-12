@@ -2,7 +2,7 @@
 
 A clean, interactive Tic-Tac-Toe game built with React. It supports win detection, draw detection, move blocking after game end, and a visual winning strike-through line.
 
-live here : 
+live here : https://tic-tac-toe-azure-zeta-84.vercel.app/
 
 ## Overview
 
